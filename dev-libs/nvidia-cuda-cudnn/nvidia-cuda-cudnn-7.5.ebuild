@@ -4,7 +4,7 @@
 
 EAPI=5
 
-PKG="cudnn-7.5-linux-x64-v5.0-rc"
+PKG="cudnn-7.5-linux-x64-v5.0-ga"
 SRC_URI="${PKG}.tgz"
 
 DESCRIPTION="NVIDIA cuDNN GPU Accelerated Deep Learning"
